@@ -17,6 +17,18 @@
 * Github: [@AhmadHerzallah](https://github.com/AhmadHerzallah)
 * LinkedIn: [@ahmad-herzallah](https://linkedin.com/in/ahmad-herzallah)
 
+👤 **Hosny Al Khatib**
+
+* Github: [@hosny-Alkhatib](https://github.com/AhmadHerzallah)
+
+👤 **Hadil Owda**
+
+* Twitter: [@itsahmd25](https://twitter.com/itsahmd25)
+* Github: [@HadilOwda](https://github.com/AhmadHerzallah)
+
+👤 **Shams Hmead**
+
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!

@@ -19,14 +19,15 @@
 
 👤 **Hosny Al Khatib**
 
-* Github: [@hosny-Alkhatib](https://github.com/AhmadHerzallah)
+* Github: [@hosny-Alkhatib](https://github.com/hosny-Alkhatib)
 
 👤 **Hadil Owda**
 
-* Github: [@HadilOwda](https://github.com/AhmadHerzallah)
+* Github: [@HadilOwda](https://github.com/HadilOwda)
 
 👤 **Shams Hmead**
 
+* Github: [@shamstt6](https://github.com/shamstt6)
 
 ## Show your support
 

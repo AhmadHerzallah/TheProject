@@ -23,7 +23,6 @@
 
 👤 **Hadil Owda**
 
-* Twitter: [@itsahmd25](https://twitter.com/itsahmd25)
 * Github: [@HadilOwda](https://github.com/AhmadHerzallah)
 
 👤 **Shams Hmead**
